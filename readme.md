@@ -222,9 +222,9 @@ Start ESP32 simulation to see live updates.
 
 ## Author
 
-Shreyas Gowda S
-M.Tech – IoT & Embedded Systems
-IoT Sump Monitoring System Project
+Shreyas Gowda S, 
+M.Tech – IoT & Embedded Systems, 
+IoT Sump Monitoring System Project.
 
 
 
