@@ -69,7 +69,7 @@ sketch.ino                       # ESP32 MQTT publisher code
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/yourusername/IoT-Sump-Monitoring-System.git
+git clone https://github.com/ShreyasGowda28/IoT-Sump-Monitoring-System.git
 cd IoT-Sump-Monitoring-System
 ```
 
